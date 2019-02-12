@@ -6,5 +6,7 @@ console.log(b[2]);
 
 var c = b[2];
 console.log(c[0]);
-
 console.log(b[2][0]);
+b[4] = 7;
+console.log(b);
+console.log(b.length);
